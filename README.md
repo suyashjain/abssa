@@ -20,6 +20,7 @@ The script is written to take the backup of :-
    and pass to -path switch     
    
  > create a file for include list and mention each path/file in a separate line
+ 
  > create a optional file for exclude list and mention each path/file in a separate line
 
  The script is capable of taking directories path and individual file in include and exclude list
