@@ -5,9 +5,12 @@ By Suyash Jain - www.coolgator.in
 
 
 
-The script is written to take the backup of :-                                                   #
- 1) modified files in directories since last check.                                              #
- 2) modified individual files since last check                                                   #
+The script is written to take the backup of :-                                                   
+
+ 1) modified files in directories since last check.                                              
+ 
+ 2) modified individual files since last check                                                   
+ 
 
 
 
