@@ -23,3 +23,4 @@ The script is written to take the backup of :-
  
  The script uses a timestamp file to compare the included files                                  
 
+> I will be highly thankful for the contribution and improvements
